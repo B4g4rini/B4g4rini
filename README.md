@@ -27,5 +27,5 @@ Desenvolvedor web
 
 <a href="http://www.github.com/B4g4rini"><img src="https://github-readme-stats.vercel.app/api?username=B4g4rini&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=3382ed&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="B4g4rini's GitHub stats" /></a>
 
-<a href="http://www.github.com/B4g4rini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=B4g4rini&stroke=3382ed&background=181824&ring=ec4899&fire=ec4899&currStreakNum=3382ed&currStreakLabel=ec4899&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
 
