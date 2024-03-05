@@ -6,7 +6,7 @@ Desenvolvedor web
 
 * 🌍  Estou baseado em São Paulo, BR
 * ✉️  Você pode entrar em contato comigo em [pedro.bagarini2000@gmail.com](mailto:pedro.bagarini2000@gmail.com)
-* 🧠  Eu estou aprendendo ReactJS
+* 🧠  Eu estou aprendendo C#
 
 
 ### Tecnologias do meu dia a dia
