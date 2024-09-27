@@ -16,6 +16,11 @@ Desenvolvedor web
 <a href="http://www.github.com/B4g4rini"><img src="https://github-readme-stats.vercel.app/api?username=B4g4rini&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=3382ed&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="B4g4rini's GitHub stats" /></a>
 
 
+![B4g4rini GitHub stats](https://github-readme-stats.vercel.app/api?username=B4g4rini&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B4g4rini&layout=compact&langs_count=6&theme=dracula)
+
+
 
 ### Tecnologias do meu dia a dia
 
