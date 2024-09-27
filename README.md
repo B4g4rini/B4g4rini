@@ -6,7 +6,7 @@ Desenvolvedor web
 
 * 🌍  Estou localizado em São Paulo, BR
 * ✉️  Você pode entrar em contato comigo em [pedro.bagarini2000@gmail.com](mailto:pedro.bagarini2000@gmail.com)
-* 🧠  Eu estou aprendendo C#
+  
 
 
 ### Status
