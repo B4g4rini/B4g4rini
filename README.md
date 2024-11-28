@@ -29,9 +29,6 @@ Desenvolvedor web
 
 
 
-### Redes Sociais
-<p </a> <a href="https://www.github.com/B4g4rini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </a><a href="https://www.linkedin.com/in/pedro-bagarini-2aa2aa230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-
 
 
 
