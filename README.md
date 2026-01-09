@@ -9,17 +9,6 @@ Desenvolvedor web
   
 
 
-### Status
-
-<b>Minhas estatísticas do GitHub</b>
-
-
-![B4g4rini GitHub stats](https://github-readme-stats.vercel.app/api?username=B4g4rini&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B4g4rini&layout=compact&langs_count=6&theme=dracula)
-
-
-
 ## Tecnologias utilizadas no dia a dia
 
 <div style="display: inline_block"> <br/>
